@@ -14,4 +14,9 @@ class shop
         return ['add'];
     }
 
+    public function edit()
+    {
+        return ['edit'];
+    }
+
 }
